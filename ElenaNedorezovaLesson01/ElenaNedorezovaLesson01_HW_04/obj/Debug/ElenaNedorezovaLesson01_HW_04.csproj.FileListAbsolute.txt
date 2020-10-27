@@ -1,0 +1,7 @@
+D:\GeekBr\Git\ElenaNedorezovaLesson01\ElenaNedorezovaLesson01_HW_04\bin\Debug\ElenaNedorezovaLesson01_HW_04.exe.config
+D:\GeekBr\Git\ElenaNedorezovaLesson01\ElenaNedorezovaLesson01_HW_04\bin\Debug\ElenaNedorezovaLesson01_HW_04.exe
+D:\GeekBr\Git\ElenaNedorezovaLesson01\ElenaNedorezovaLesson01_HW_04\bin\Debug\ElenaNedorezovaLesson01_HW_04.pdb
+D:\GeekBr\Git\ElenaNedorezovaLesson01\ElenaNedorezovaLesson01_HW_04\obj\Debug\ElenaNedorezovaLesson01_HW_04.csprojAssemblyReference.cache
+D:\GeekBr\Git\ElenaNedorezovaLesson01\ElenaNedorezovaLesson01_HW_04\obj\Debug\ElenaNedorezovaLesson01_HW_04.csproj.CoreCompileInputs.cache
+D:\GeekBr\Git\ElenaNedorezovaLesson01\ElenaNedorezovaLesson01_HW_04\obj\Debug\ElenaNedorezovaLesson01_HW_04.exe
+D:\GeekBr\Git\ElenaNedorezovaLesson01\ElenaNedorezovaLesson01_HW_04\obj\Debug\ElenaNedorezovaLesson01_HW_04.pdb
