@@ -1,0 +1,7 @@
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson03\ElenaNedorezovaLesson03\bin\Debug\ElenaNedorezovaLesson03.exe.config
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson03\ElenaNedorezovaLesson03\bin\Debug\ElenaNedorezovaLesson03.exe
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson03\ElenaNedorezovaLesson03\bin\Debug\ElenaNedorezovaLesson03.pdb
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson03\ElenaNedorezovaLesson03\obj\Debug\ElenaNedorezovaLesson03_HW01.csprojAssemblyReference.cache
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson03\ElenaNedorezovaLesson03\obj\Debug\ElenaNedorezovaLesson03_HW01.csproj.CoreCompileInputs.cache
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson03\ElenaNedorezovaLesson03\obj\Debug\ElenaNedorezovaLesson03.exe
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson03\ElenaNedorezovaLesson03\obj\Debug\ElenaNedorezovaLesson03.pdb
