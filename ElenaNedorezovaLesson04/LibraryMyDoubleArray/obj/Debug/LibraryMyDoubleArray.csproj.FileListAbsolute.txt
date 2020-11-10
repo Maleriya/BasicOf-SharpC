@@ -1,0 +1,5 @@
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson04\LibraryMyDoubleArray\bin\Debug\LibraryMyDoubleArray.dll
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson04\LibraryMyDoubleArray\bin\Debug\LibraryMyDoubleArray.pdb
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson04\LibraryMyDoubleArray\obj\Debug\LibraryMyDoubleArray.csproj.CoreCompileInputs.cache
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson04\LibraryMyDoubleArray\obj\Debug\LibraryMyDoubleArray.dll
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson04\LibraryMyDoubleArray\obj\Debug\LibraryMyDoubleArray.pdb
