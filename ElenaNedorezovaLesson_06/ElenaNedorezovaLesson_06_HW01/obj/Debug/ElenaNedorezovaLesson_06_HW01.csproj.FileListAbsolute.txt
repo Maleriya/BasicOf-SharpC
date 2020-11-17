@@ -1,0 +1,14 @@
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\bin\Debug\ElenaNedorezovaLesson_06_HW01.exe.config
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\bin\Debug\ElenaNedorezovaLesson_06_HW01.exe
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\bin\Debug\ElenaNedorezovaLesson_06_HW01.pdb
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\obj\Debug\ElenaNedorezovaLesson_06_HW01.csprojAssemblyReference.cache
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\obj\Debug\ElenaNedorezovaLesson_06_HW01.csproj.CoreCompileInputs.cache
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\obj\Debug\ElenaNedorezovaLesson_06_HW01.exe
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\obj\Debug\ElenaNedorezovaLesson_06_HW01.pdb
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\bin\Debug\ElenaNedorezovaLesson_06_HW01.exe.config
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\bin\Debug\ElenaNedorezovaLesson_06_HW01.exe
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\bin\Debug\ElenaNedorezovaLesson_06_HW01.pdb
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\obj\Debug\ElenaNedorezovaLesson_06_HW01.csprojAssemblyReference.cache
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\obj\Debug\ElenaNedorezovaLesson_06_HW01.csproj.CoreCompileInputs.cache
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\obj\Debug\ElenaNedorezovaLesson_06_HW01.exe
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW01\obj\Debug\ElenaNedorezovaLesson_06_HW01.pdb

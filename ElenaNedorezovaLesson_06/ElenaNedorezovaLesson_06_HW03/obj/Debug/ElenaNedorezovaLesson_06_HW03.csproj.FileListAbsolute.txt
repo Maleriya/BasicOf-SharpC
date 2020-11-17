@@ -1,0 +1,7 @@
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW03\bin\Debug\ElenaNedorezovaLesson_06_HW03.exe.config
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW03\bin\Debug\ElenaNedorezovaLesson_06_HW03.exe
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW03\bin\Debug\ElenaNedorezovaLesson_06_HW03.pdb
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW03\obj\Debug\ElenaNedorezovaLesson_06_HW03.csprojAssemblyReference.cache
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW03\obj\Debug\ElenaNedorezovaLesson_06_HW03.csproj.CoreCompileInputs.cache
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW03\obj\Debug\ElenaNedorezovaLesson_06_HW03.exe
+E:\Lenka\ElenaNedorezovaLesson_06\ElenaNedorezovaLesson_06_HW03\obj\Debug\ElenaNedorezovaLesson_06_HW03.pdb
