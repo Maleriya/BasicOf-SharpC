@@ -1,0 +1,10 @@
+E:\Lenka\ElenaNedorezovaLesson07\ElenaNedorezovaLesson07_HW01\bin\Debug\ElenaNedorezovaLesson07_HW01.exe.config
+E:\Lenka\ElenaNedorezovaLesson07\ElenaNedorezovaLesson07_HW01\bin\Debug\ElenaNedorezovaLesson07_HW01.exe
+E:\Lenka\ElenaNedorezovaLesson07\ElenaNedorezovaLesson07_HW01\bin\Debug\ElenaNedorezovaLesson07_HW01.pdb
+E:\Lenka\ElenaNedorezovaLesson07\ElenaNedorezovaLesson07_HW01\obj\Debug\ElenaNedorezovaLesson07_HW01.csprojAssemblyReference.cache
+E:\Lenka\ElenaNedorezovaLesson07\ElenaNedorezovaLesson07_HW01\obj\Debug\ElenaNedorezovaLesson07_HW01.Form1.resources
+E:\Lenka\ElenaNedorezovaLesson07\ElenaNedorezovaLesson07_HW01\obj\Debug\ElenaNedorezovaLesson07_HW01.Properties.Resources.resources
+E:\Lenka\ElenaNedorezovaLesson07\ElenaNedorezovaLesson07_HW01\obj\Debug\ElenaNedorezovaLesson07_HW01.csproj.GenerateResource.cache
+E:\Lenka\ElenaNedorezovaLesson07\ElenaNedorezovaLesson07_HW01\obj\Debug\ElenaNedorezovaLesson07_HW01.csproj.CoreCompileInputs.cache
+E:\Lenka\ElenaNedorezovaLesson07\ElenaNedorezovaLesson07_HW01\obj\Debug\ElenaNedorezovaLesson07_HW01.exe
+E:\Lenka\ElenaNedorezovaLesson07\ElenaNedorezovaLesson07_HW01\obj\Debug\ElenaNedorezovaLesson07_HW01.pdb
