@@ -1,0 +1,5 @@
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson04\LibraryMyArray\bin\Debug\LibraryMyArray.dll
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson04\LibraryMyArray\bin\Debug\LibraryMyArray.pdb
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson04\LibraryMyArray\obj\Debug\LibraryMyArray.csproj.CoreCompileInputs.cache
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson04\LibraryMyArray\obj\Debug\LibraryMyArray.dll
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson04\LibraryMyArray\obj\Debug\LibraryMyArray.pdb
