@@ -1,0 +1,10 @@
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson08\ElenaNedorezovaLesson08_HW02\bin\Debug\ElenaNedorezovaLesson08_HW02.exe.config
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson08\ElenaNedorezovaLesson08_HW02\bin\Debug\ElenaNedorezovaLesson08_HW02.exe
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson08\ElenaNedorezovaLesson08_HW02\bin\Debug\ElenaNedorezovaLesson08_HW02.pdb
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson08\ElenaNedorezovaLesson08_HW02\obj\Debug\ElenaNedorezovaLesson08_HW02.csprojAssemblyReference.cache
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson08\ElenaNedorezovaLesson08_HW02\obj\Debug\ElenaNedorezovaLesson08_HW02.Form1.resources
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson08\ElenaNedorezovaLesson08_HW02\obj\Debug\ElenaNedorezovaLesson08_HW02.Properties.Resources.resources
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson08\ElenaNedorezovaLesson08_HW02\obj\Debug\ElenaNedorezovaLesson08_HW02.csproj.GenerateResource.cache
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson08\ElenaNedorezovaLesson08_HW02\obj\Debug\ElenaNedorezovaLesson08_HW02.csproj.CoreCompileInputs.cache
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson08\ElenaNedorezovaLesson08_HW02\obj\Debug\ElenaNedorezovaLesson08_HW02.exe
+D:\GeekBr\Git\BasicOf-SharpC\ElenaNedorezovaLesson08\ElenaNedorezovaLesson08_HW02\obj\Debug\ElenaNedorezovaLesson08_HW02.pdb
